@@ -4,6 +4,11 @@ This repo is an example of how you can use C++ and Blueprints to build an post-i
 
 ## How to use
 
+1. Clone the repo into a plugins folder, preferably at the Project level.
+2. Enable the plugin in your `.uproject` file or through the plugin manager in unreal, it is called `Importer Rules`
+   !(Documentation/importer.rules.plugin.menu.png)
+3. Open Project Settings -> Post Import Asset Rules
+
 ### Example Rules
 
 ## Framework breakdown
