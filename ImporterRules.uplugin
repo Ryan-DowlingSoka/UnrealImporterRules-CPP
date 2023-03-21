@@ -1,0 +1,24 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ImporterRules",
+	"Description": "Native plugin for handling post-import modifications to assets based on naming conventions and other metrics.",
+	"Category": "Other",
+	"CreatedBy": "Ryan DowlingSoka",
+	"CreatedByURL": "https://ryandowlingsoka.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EnabledByDefault": false,
+	"Modules": [
+		{
+			"Name": "ImporterRules",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
